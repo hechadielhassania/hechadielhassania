@@ -29,8 +29,6 @@
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a Software Engineer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
-- I encourage you to take a look at my work on <a href="https://www.hechadi.com/">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
-
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
 
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:hechadihassaia@gmail.com">hechadihassaia@gmail.com</a>
@@ -129,7 +127,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/el-hassania-hechadi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  el-hassania-hechadi-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:  HechadiHassania-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
