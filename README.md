@@ -4,12 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Software+Engineer;Specializing+in+Frontend+Development+;Crafting+Engaging+Websites;WordPress+%26+Prestashop+Expert;+Seeking+Impactful+Opportunities)](https://git.io/typing-svg)">
 </p>
-
-
-<br>
-
-
-
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
