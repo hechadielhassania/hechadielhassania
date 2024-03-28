@@ -87,8 +87,6 @@
 
 </p>
 
------
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -99,11 +97,6 @@
 [![El Hassania Hechadi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
-
-<br>
------
-
-<br>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -136,6 +129,5 @@
 </ul>
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
