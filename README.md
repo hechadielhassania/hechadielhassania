@@ -77,9 +77,9 @@
 <br>
 
 <div align="center">
-
-[![El Hassania Hechadi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![El Hassania Hechadi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hechadielhassania&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 </div>
 
