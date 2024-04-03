@@ -1,10 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm El Hassania Hechadi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Software+Engineer;Specializing+in+Frontend+Development+;Crafting+Engaging+Websites;WordPress+%26+Prestashop+Expert;+Seeking+Impactful+Opportunities)](https://git.io/typing-svg)">
-</p>
-	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
