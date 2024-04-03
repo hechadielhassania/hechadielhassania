@@ -1,8 +1,11 @@
 
 <h1 align="center"><b>Hi , I'm El Hassania Hechadi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-
-
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./assets/mdImages/programming.png" width=300px>
+</picture>
+<br>
 - Hello, and welcome to my GitHub profile! My name is El Hassania Hechadi, and I am a Software Engineer with a passion for creating engaging and user-friendly web applications. 
 
 - As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
