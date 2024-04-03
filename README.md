@@ -1,13 +1,5 @@
 
 <h1 align="center"><b>Hi , I'm El Hassania Hechadi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.png" width=300px>
-</picture>
-
 <br>
 
 
