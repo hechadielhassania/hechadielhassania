@@ -83,9 +83,7 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=hechadielhassania&theme=dark&show_icons=true" height="220" alt="streak graph"  />
 </div>
-	<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechadielhassania&exclude_repo=github-readme-stats,anuraghazra.github.io" height="220" alt="streak graph"  />
-</div>
+	
 </div>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
