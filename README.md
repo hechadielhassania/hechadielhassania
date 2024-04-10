@@ -83,6 +83,9 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=hechadielhassania&theme=dark&show_icons=true" height="220" alt="streak graph"  />
 </div>
+	<div align="center">
+	<img src="[https://github-readme-stats.vercel.app/api?username=hechadielhassania&theme=dark&show_icons=true](https://camo.githubusercontent.com/5711cf279ea4cba2830c6c213440e996d73607d71e94175ab0abccf7b767378c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6265797a6161616b65736572267468656d653d6e696768746f776c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)" height="220" alt="streak graph"  />
+</div>
 	
 </div>
 
