@@ -3,10 +3,6 @@
 </br>
 - Hello, and welcome to my GitHub profile! My name is El Hassania Hechadi, and I am a Software Engineer with a passion for creating engaging and user-friendly web applications. 
 
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
-
--  Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, React, TypScript, MongoDB, WordPress and more...
-
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a Software Engineer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
