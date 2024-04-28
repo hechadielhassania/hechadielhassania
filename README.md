@@ -72,13 +72,9 @@
 <br>
 
 <div align="center">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hechadielhassania&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=hechadielhassania&theme=dark&show_icons=true" height="220" alt="streak graph"  />
-</div>
-	
+	|Github Statistics|Streaks|Languages|
+|-|-|-|
+|[![Hechadi's github stats](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=dark&hide_title=true)](https://github.com/hechadielhassania)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=hechadielhassania&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechadielhassania&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hechadielhassania)
 	
 </div>
 
