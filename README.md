@@ -71,7 +71,7 @@
 |[![Hechadi's github stats](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=dark&hide_title=true)](https://github.com/hechadielhassania)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=hechadielhassania&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechadielhassania&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hechadielhassania)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ismailharmanda&style=plastic&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=hechadielhassania&style=plastic&color=yellow)
 
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
