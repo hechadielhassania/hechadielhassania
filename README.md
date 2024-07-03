@@ -12,6 +12,8 @@
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
 <br>
+<br>
+<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b>
 <br>
 
