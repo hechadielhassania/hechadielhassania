@@ -8,8 +8,6 @@
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
 </br></br>
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:hechadihassaia@gmail.com">hechadihassaia@gmail.com</a>
-</br></br> 
-- Thank you for visiting my profile, and I look forward to connecting with you!
 
 <br>
 <br>
