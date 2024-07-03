@@ -12,7 +12,7 @@
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
 <br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b>
 <br>
 
 
@@ -21,39 +21,6 @@
 |-|-|-|
 |[![Hechadi's github stats](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=dark&hide_title=true)](https://github.com/hechadielhassania)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=hechadielhassania&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechadielhassania&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hechadielhassania)
 
-
-
-
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/el-hassania-hechadi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  HechadiHassania-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/HechadiHassania" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  HechadiHassania-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:hechadihassia@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  HechadiHassania-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
-</a>
-</li>
-	
-</ul>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
