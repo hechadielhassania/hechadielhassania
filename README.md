@@ -10,17 +10,5 @@
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:hechadihassaia@gmail.com">hechadihassaia@gmail.com</a>
 
 <br>
-<br>
-<br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b>
-<br>
 
-
-
-|Github Statistics|Streaks|Languages|
-|-|-|-|
-|[![Hechadi's github stats](https://github-readme-stats.vercel.app/api?username=hechadielhassania&show_icons=true&theme=dark&hide_title=true)](https://github.com/hechadielhassania)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=hechadielhassania&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechadielhassania&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hechadielhassania)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
